@@ -1,18 +1,22 @@
 ---
 layout: post
-title:  "Find Land in a Sea of Thought"
+title: Find Land in a Sea of Thought
 author: gaut
-categories: []
-tags: [ problem,syntropy,solution,thinking,entropy,]
+categories: 
+tags:
+  - problem
+  - syntropy
+  - solution
+  - thinking
+  - entropy
 beforetoc: ""
-description: "Find land in a sear of thoughts"
+description: Find land in a sea of thoughts
 toc: false
 image: assets/images/land-in-sea.jpg
-# rating: 4.5
 comments: false
 ---
 
-We are humans, equipped with a brain that continuously gather and process information about the world around us, our environment, bascially everything that surround us.
+We are humans, equipped with a brain that continuously gather and process information about the world around us, our environment, basically everything that surround us.
 
 Today, we get waves of information thrown at us to get our attention. These waves of information can hinder our brain and thought process.
 
@@ -22,9 +26,9 @@ I refer to this challenge as waves of information that create a sea of thought.
 
 ## The Sea of Thought
 
-The sea can be quiet, but many know that wheather conditions, winds and waves, can vary. A true sailor knows that these can take you from one point to another, that they can force one into a specific direction and not always the right one.
+The sea can be quiet, but many know that weather conditions, winds and waves, can vary. A true sailor knows that these can take you from one point to another, that they can force one into a specific direction and not always the right one.
 
-Here, I am using the sea as a metaphore for what happens in our brain, when ideating or simply thinking. Navigating the sea represents using our brain, the treatment of information and thoughts, that we integrated in the past, exist now, and that we shall use sooner or later in the future.
+Here, I am using the sea as a metaphor for what happens in our brain, when ideating or simply thinking. Navigating the sea represents using our brain, the treatment of information and thoughts, that we integrated in the past, exist now, and that we shall use sooner or later in the future.
 
 The end goal of a thinking process, or when navigating the sea, is to find land. Find that idea, connection, or simply information that one might look for.
 
@@ -44,10 +48,7 @@ The end goal of a thinking process, or when navigating the sea, is to find land.
 
 These different states might as well be used to define the complexity of a problem, or of navigating easily or clearly the sea of information or thoughts our brain experience at all time.
 
-
-
 Writing express the process or the way to go from one point to another, one island to another.
-
 
 Without an anchor, your ship can drift away.
 
