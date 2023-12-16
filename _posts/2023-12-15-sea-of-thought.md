@@ -15,12 +15,11 @@ toc: false
 image: assets/images/land-in-sea.jpg
 comments: false
 ---
-
 We are humans, equipped with a brain that continuously gather and process information about the world around us, our environment, basically everything that surround us.
 
 Today, we get waves of information thrown at us to get our attention. These waves of information can hinder our brain and thought process.
 
-It is like starting a new job in a highly complex ecosystem. It is not always a gentle slope into a new domain. It can sometimes take the form of huge waves at high tides, throwing you back to the shore as quickly as you came in.
+It is like starting a new job in a highly, sometimes overly, complex ecosystem or environment. It is not always a gentle slope into a new domain. It can sometimes take the form of huge waves at high tides, throwing you back to the shore as quickly as you came in.
 
 I refer to this challenge as waves of information that create a sea of thought.
 
@@ -28,7 +27,7 @@ I refer to this challenge as waves of information that create a sea of thought.
 
 The sea can be quiet, but many know that weather conditions, winds and waves, can vary. A true sailor knows that these can take you from one point to another, that they can force one into a specific direction and not always the right one.
 
-Here, I am using the sea as a metaphor for what happens in our brain, when ideating or simply thinking. Navigating the sea represents using our brain, the treatment of information and thoughts, that we integrated in the past, exist now, and that we shall use sooner or later in the future.
+Here, I am using the sea as a metaphor for what happens in our brain, when ideating or simply thinking. Navigating the sea represents using our brain, the treatment of information and thoughts, that we integrated in the past, that exist now, and that we shall use sooner or later in the future.
 
 The end goal of a thinking process, or when navigating the sea, is to find land. Find that idea, connection, or simply information that one might look for.
 

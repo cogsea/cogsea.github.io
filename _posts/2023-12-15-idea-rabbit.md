@@ -22,8 +22,6 @@ I started working as a junior data analyst in a small knowledge based organizati
 I quickly turned into a "digital expert", although far from being an expert, yet having automated the most annoying parts of my work. 
 
 
-![](/assets/images/logo.png)
-
 
 ---
 
