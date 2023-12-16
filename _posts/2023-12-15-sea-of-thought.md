@@ -47,15 +47,20 @@ The end goal of a thinking process, or when navigating the sea, is to find land.
 
 These different states might as well be used to define the complexity of a problem, or of navigating easily or clearly the sea of information or thoughts our brain experience at all time.
 
-Writing express the process or the way to go from one point to another, one island to another.
+## Navigating the Sea
 
-Without an anchor, your ship can drift away.
+Writing express the process or the way to go from one point to another, one island to another.
 
 In a storm, strong winds and high waves can cause leeway, or worse, make your boat keel over. 
 
 I sometimes find myself drowning in things. I most certainly need a thinking tool.
 
 It's good to have a boat to navigate the sea. But it's better to have a map and compass.
+
+
+## Finding Land
+
+Without an anchor, your ship can drift away.
 
 <!-- Photo de Fabian Wiktor: https://www.pexels.com/fr-fr/photo/bord-de-mer-994605/ -->
 
