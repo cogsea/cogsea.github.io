@@ -43,6 +43,8 @@ In example, I experience trouble to focus on one thing.
 
 The more I search, the more or less I find.
 
+I often fall in a [rabbit hole](/rabbit-hole/)
+
 ### How do ideas form?
 
 Ideation on complex, non-linear, problems leads to complex, non-linear concepts.
@@ -67,5 +69,5 @@ A tool to navigate your brain when it is drifting in a sea of thoughts, used wit
 A tool to organize your thoughts.
 
 
-the [Zettelkasten](https://zettelkasten.de/introduction/)
+<!-- the [Zettelkasten](https://zettelkasten.de/introduction/) -->
 ---
