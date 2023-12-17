@@ -20,4 +20,4 @@ In [Designing Organizations for an Information-rich World](https://web.archive.o
 - Old words in new meanings
 - The scarcity of attention
 
-We will digg deeper into both these problems later. Stay tuned.
+We will dig deeper into both these problems later. Stay tuned!
