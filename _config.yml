@@ -12,7 +12,8 @@ google_analytics: 'G-KRS5PXWHYC'
 include: ["_pages"]
 permalink: /:title/
 # email: wowthemesnet@gmail.com
-
+main_twitter: https://twitter.com/GautiGauss
+  
 # Authors
 authors:
   gaut:
