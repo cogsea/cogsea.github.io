@@ -14,7 +14,7 @@ comments: false
 
 The tunnels taken by the rabbit from Alice in Wonderland, or idea rabbit.
 
-## Reasearch and Ideation
+## Research and Knowledge
 
 When I do research on a project, or simply read online, I often find new things, ideas or project to read and maybe develop. 
 
