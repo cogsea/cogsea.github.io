@@ -13,7 +13,7 @@ categories:
 
 Knowledge management refers to the systematic process of capturing, organizing, and utilizing [knowledge](/defining-knowledge/) within an organization to enhance decision-making, innovation, and overall performance. 
 
-![](assets/images/km-chart.png)
+![](/assets/images/km-chart.png)
 
 Here are the key aspects of knowledge management:
 
