@@ -53,4 +53,4 @@ Here are many tools and technologies to do just that
     
 20. **Mobile and cloud technologies**: Enable knowledge access and sharing from anywhere, at any time, on any device, allowing for increased flexibility and remote collaboration.
 
-Indeed, that is a long list of tools and technologies to consider. Knowledge management involves most aspect of businesses and organizations, as knowledge and information is used all around the company. The challenge is how to make all these different systems to make sense all-together.
+Indeed, that is a long list of tools and technologies to consider. Knowledge management involves most aspects of businesses and organizations, as knowledge and information is used all around the company. The challenge is the complexity and lack of consistency in workflows that arise as the organization grows and the number of tools and process grows. Basically, how to make all these different systems to make sense all-together?
