@@ -3,7 +3,8 @@ title: "Artificial Intelligence: What and How?"
 layout: short
 comments: false
 description: 
-tags: 
+tags:
+  - AI
 categories:
   - short
 ---
