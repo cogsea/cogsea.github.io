@@ -6,6 +6,7 @@ categories:
   - business
 tags:
   - AI
+layout: post
 ---
 [Artificial intelligence](/artificial-intelligence/) (AI) can immensely benefit small and medium sized companies by automating tasks, enhancing decision-making processes, improving customer experiences, and boosting overall productivity and efficiency. 
 
