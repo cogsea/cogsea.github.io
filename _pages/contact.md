@@ -1,11 +1,14 @@
 ---
 layout: page
-title: Contact
+title: 
 permalink: /contact
 comments: false
 ---
 
-<form action="https://formspree.io/{{site.email}}" method="POST">    
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfO7QzFENQUgkz7agqoZ0_Xucn2cEzk61iMcpjyrjU3lwYQDw/viewform?embedded=true" width="700" height="1000" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
+
+
+<!-- <form action="https://formspree.io/{{site.email}}" method="POST">    
 <p class="mb-4">Please send your message to {{site.name}}. We will reply as soon as possible!</p>
 <div class="form-group row">
 <div class="col-md-6">
@@ -17,4 +20,4 @@ comments: false
 </div>
 <textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
 <input class="btn btn-dark" type="submit" value="Send">
-</form>
+</form> -->
