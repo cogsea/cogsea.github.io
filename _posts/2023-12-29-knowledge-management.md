@@ -1,15 +1,21 @@
 ---
-title: "What is Knowledge Management?"
-description: "Knowledge management refers to the systematic process of capturing, organizing, and utilizing knowledge within an organization to enhance decision-making, innovation, and overall performance."
+title: What is Knowledge Management?
+description: Knowledge management refers to the systematic process of capturing, organizing, and utilizing knowledge within an organization to enhance decision-making, innovation, and overall performance.
 layout: post
-tags: 
+tags:
   - business
 comments: false
 author: gaut
 image: assets/images/knowledge-abby-chung-1106468.jpg
+categories:
+  - business
 ---
 
-Knowledge management refers to the systematic process of capturing, organizing, and utilizing knowledge within an organization to enhance decision-making, innovation, and overall performance. Here are some key aspects of knowledge management:
+Knowledge management refers to the systematic process of capturing, organizing, and utilizing [knowledge](/defining-knowledge/) within an organization to enhance decision-making, innovation, and overall performance. 
+
+![](assets/images/km-chart.png)
+
+Here are the key aspects of knowledge management:
 
 **Definition**: Knowledge management involves understanding and utilizing both explicit knowledge (codified, documented, and easily transferable) and tacit knowledge (personal expertise, experience, and insights that are difficult to formalize) that exists within an organization.
 
@@ -27,4 +33,4 @@ Knowledge management refers to the systematic process of capturing, organizing, 
 
 **Benefits**: Successful knowledge management can result in enhanced decision-making, improved operational efficiency, reduced risk, increased innovation and creativity, better customer service, accelerated problem-solving, and improved organizational resilience and adaptability.
 
-Overall, knowledge management is a strategic approach that focuses on leveraging an organization's knowledge assets to enhance its overall performance, competitiveness, and sustainability in today's knowledge-intensive economy.
+Overall, knowledge management is a strategic approach that focuses on leveraging an organization's knowledge assets to enhance its overall performance, competitiveness, and sustainability in today's [knowledge-intensive economy](/knwoledge-intensive-economy/).
