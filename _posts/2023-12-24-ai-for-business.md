@@ -3,9 +3,9 @@ title: Artificial Intelligence for Businesses
 description: Artificial Intelligence for Small and Medium sized Companies (SMEs).
 comments: false
 categories:
-  - business
-tags:
   - AI
+  - Business
+tags: []
 layout: post
 ---
 [Artificial intelligence](/artificial-intelligence/) (AI) can immensely benefit small and medium sized companies by automating tasks, enhancing decision-making processes, improving customer experiences, and boosting overall productivity and efficiency. 

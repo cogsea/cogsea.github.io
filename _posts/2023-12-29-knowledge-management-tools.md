@@ -5,11 +5,12 @@ comments: false
 image: assets/images/tools-felix-mittermeier-957912.jpg
 description: " Tools and technologies for effective knowledge management, that can support knowledge management efforts."
 author: gaut
+categories:
+  - Business
+  - KM
 tags:
   - knowledge
   - management
-categories:
-  - business
 ---
 [Knowledge management](/knowledge-management/) refers to the systematic process of capturing, organizing, and utilizing knowledge within an organization to enhance decision-making, innovation, and overall performance. 
 

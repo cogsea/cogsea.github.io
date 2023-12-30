@@ -8,7 +8,7 @@ comments: false
 author: gaut
 image: assets/images/knowledge-abby-chung-1106468.jpg
 categories:
-  - business
+  - KM
 ---
 
 Knowledge management refers to the systematic process of capturing, organizing, and utilizing [knowledge](/defining-knowledge/) within an organization to enhance decision-making, innovation, and overall performance. 

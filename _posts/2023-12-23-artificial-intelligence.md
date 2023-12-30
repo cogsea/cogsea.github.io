@@ -3,9 +3,9 @@ title: "Artificial Intelligence: What and How?"
 layout: short
 comments: false
 description: 
-tags:
+categories:
   - AI
-categories: []
+tags: []
 ---
 Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think, reason, learn, and solve problems like humans. 
 

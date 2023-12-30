@@ -3,7 +3,7 @@ title: A Knowledge-Intensive Economy
 layout: short
 comments: false
 author: gaut
-categories: []
+categories: [KM]
 tags:
   - economy
 description: A knowledge-intensive economy relies on the effective management and application of knowledge to drive economic growth, generate wealth, and enhance overall societal well-being.
