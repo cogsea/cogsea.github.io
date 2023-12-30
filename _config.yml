@@ -27,6 +27,24 @@ authors:
     working for large and complex organisations, mainly in the financial sector, but not only.<br> 
     Passionate about Design and Collective Intelligence."
 
+careers:
+  role1:
+    name: Data Scientist
+    avatar: 'assets/images/girl-avatar.png'
+    description: Knowledge of Statistics and Linear Regression. Experience in Python.
+  role2:
+    name: Data Engineer
+    avatar: 'assets/images/boy-avatar.png'
+    description: Knowledge of Excel and/or Google Sheets. Experience in Python.
+  role3:
+    name: Sales Representative
+    avatar: 'assets/images/director-avatar.png'
+    description: Autonomous and entrepreneurial.
+  role4:
+    name: Spontaneous Application
+    avatar: 'assets/images/unknown-avatar.png'
+    description: You would like to work with us but are unsure what to do.
+
 # Plugins
 plugins:
   - jekyll-paginate

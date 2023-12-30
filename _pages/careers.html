@@ -1,0 +1,27 @@
+---
+layout: page
+title: "Work with us!" 
+permalink: /careers
+comments: false
+# image: assets/images/screenshot.jpg
+imageshadow: true
+---
+
+<p class='lead'>Here are the roles we are looking for.</p>
+
+<div class="list-authors mt-5">
+{% for role in site.careers %}   
+    <div id="{{ role[1].name }}" class="authorbox position-relative pb-5 pt-5 mb-4 mt-4 border">   
+        <div class="row">
+            <div class="wrapavname col-md-3 text-center">
+            	<img  class="author-thumb" src="{{site.baseurl}}/{{ role[1].avatar }}" alt="{{ author.display_name }}">
+            </div>
+            <div class="col-md-9">
+            	<h3>{{ role[1].name }}</h3>
+            	<p class="mt-3 mb-0">{{ role[1].description }}</p> 
+            	<p class="text-right mr-5 mb-0"><a class="" href="{{site.baseurl}}/contact">Apply</a></p>
+            </div>
+        </div> 
+    </div>    
+{% endfor %}
+</div>
