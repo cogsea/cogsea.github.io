@@ -5,7 +5,7 @@ comments: false
 description: 
 author: gaut
 categories:
-  - short
+  - business
 tags:
   - knowledge
   - management

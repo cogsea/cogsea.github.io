@@ -2,8 +2,7 @@
 title: Surfing Waves of Information
 description: We get waves of information thrown at us on a daily basis. information, attention
 layout: short
-categories: 
-  - short
+categories: []
 comments: false
 author: gaut
 ---

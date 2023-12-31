@@ -3,8 +3,7 @@ title: How do we define knowledge?
 author: gaut
 layout: short
 comments: false
-categories:
-  - short
+categories: []
 tags:
   - knowledge
 description: In the context of information systems and AI taking over the world, knowledge is best defined to us as access to information, or the procedure of its retrieval, rather than its storage.

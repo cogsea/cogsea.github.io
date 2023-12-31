@@ -5,8 +5,7 @@ comments: false
 description: 
 tags:
   - AI
-categories:
-  - short
+categories: []
 ---
 Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think, reason, learn, and solve problems like humans. 
 
