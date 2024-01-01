@@ -2,6 +2,7 @@
 title: Artificial Intelligence for Businesses
 description: Artificial Intelligence for Small and Medium sized Companies (SMEs).
 comments: false
+image: assets/images/ai-system-google-deepmind.jpg
 categories:
   - AI
   - Business

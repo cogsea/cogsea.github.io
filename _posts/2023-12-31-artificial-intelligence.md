@@ -2,6 +2,7 @@
 title: "Artificial Intelligence: What and How?"
 layout: short
 comments: false
+image: assets/images/ai-brain-google-deepmind.jpg
 description: 
 categories:
   - AI
