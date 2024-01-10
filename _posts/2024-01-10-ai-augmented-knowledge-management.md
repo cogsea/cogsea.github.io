@@ -2,7 +2,7 @@
 title: How can AI help Organizations improve their Knowledge Management?
 layout: post
 comments: false
-image: assets/images/ai-system-google-deepmin.jpg
+image: assets/images/ai-system-google-deepmind.jpg
 description: "AI can help organizations improve their knowledge management in multiple ways: from Automated knowledge discovery and Efficient knowledge retrieval to Intelligent categorization and tagging, Personalized knowledge recommendations and Expertise identification."
 categories:
   - AI
