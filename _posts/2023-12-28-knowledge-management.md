@@ -21,7 +21,7 @@ Here are the key aspects of knowledge management:
 
 **Importance**: Effective knowledge management helps organizations leverage their intellectual assets, avoid reinventing the wheel, and foster continuous learning and improvement. It enhances productivity, efficiency, and competitiveness while promoting innovation and collaboration.
 
-**Processes**: [Knowledge management involves various processes](knowledge-processes-and-flows), including knowledge creation and acquisition, documentation and codification, storage and retrieval, dissemination and sharing, and application and utilization within business practices and decision-making.
+**Processes**: [Knowledge management involves various processes](/knowledge-processes-and-flows/), including knowledge creation and acquisition, documentation and codification, storage and retrieval, dissemination and sharing, and application and utilization within business practices and decision-making.
 
 **Knowledge Repositories**: Organizations often create repositories or databases to store and organize knowledge assets such as best practices, lessons learned, research findings, customer insights, employee expertise, and intellectual property. These repositories can be physical or digital, accessible to employees or customers/partners.
 
@@ -33,6 +33,6 @@ Here are the key aspects of knowledge management:
 
 **Benefits**: Successful knowledge management can result in enhanced decision-making, improved operational efficiency, reduced risk, increased innovation and creativity, better customer service, accelerated problem-solving, and improved organizational resilience and adaptability.
 
-To dig deeper into the three processes of Knowledge Management, we invite you to read [the processes and flows of KM](knowledge-processes-and-flows).
+To dig deeper into the three processes of Knowledge Management, we invite you to read [the processes and flows of KM](/knowledge-processes-and-flows/).
 
 Overall, knowledge management is a strategic approach that focuses on leveraging an organization's knowledge assets to enhance its overall performance, competitiveness, and sustainability in today's [knowledge-intensive economy](/knwoledge-intensive-economy/).

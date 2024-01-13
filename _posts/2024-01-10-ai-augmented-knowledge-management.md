@@ -20,6 +20,8 @@ We defined three main processes in Knowledge Management:
 - **Capturing** or Knowledge Integration
 - **Organizing** or Knowledge Classification or Categorization
 - **Utilizing** or Knowledge Retrieval
+
+
 ![](/assets/images/km-feedback-loops.png)
 
 
@@ -33,6 +35,7 @@ The way we use and organize things better defines how we should respectively org
 
 
 ![](/assets/images/ai-augmented-km-processes.png)
+
 
 AI can help organizations improve their knowledge management in multiple ways:
 
