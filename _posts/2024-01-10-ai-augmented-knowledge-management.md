@@ -11,7 +11,7 @@ tags:
   - business
 author: gaut
 ---
-		Artificial Intelligence (AI) in its broad meaning, that is the joint activity of automating and predicting things, can help, streamline or yet augment knowledge management processes.
+Artificial Intelligence (AI) in its broad meaning, that is the joint activity of automating and predicting things, can help, streamline or yet augment knowledge management processes.
 
 Let's first have a quick remainder of the different [processes of knowledge management](/knowledge-processes-and-flows), before seeing how AI can *augment* it.
 
