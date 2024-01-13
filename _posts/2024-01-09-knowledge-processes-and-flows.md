@@ -9,6 +9,7 @@ categories:
   - KM
 tags:
   - business
+author: gaut
 ---
 Among the many [aspects of Knowledge Management](knowledge-management) (KM), the processes and flows of knowledge and information is an important one that requires a strong understanding for any KM endeavor.
 
