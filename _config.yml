@@ -1,5 +1,7 @@
 # Site
 name: "CogSea"
+company: "Cognitive Search SRL"
+company_headline: "Provider of management consultancy services following ISO 20700 (formerly EN 16114)"
 title: "Cognitive Sea"
 description: "We will walk you through the fabulous world of <a href=\"/artificial-intelligence/\">AI</a> and <a href=\"/defining-knowledge/\">Knowledge</a>. Observe, Think, Act!"
 logo: 'assets/images/logo.png'
